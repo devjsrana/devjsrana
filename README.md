@@ -8,6 +8,7 @@
 
 - 🧰 Full-Stack Developer at [Elegance IT Solution](https://eleganceit.co/)
 - 🌱 I’m still learning everyday
+- 🌃 Dreaming to get job at google🌝
 
 ### Connect with me:
 
