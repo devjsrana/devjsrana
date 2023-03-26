@@ -6,7 +6,7 @@
 
 ## I'm a Full-Stack Developer
 
-- 🧰 Full-Stack Developer at [Elegance IT Solution](https://eleganceit.co/)
+- 🧰 Software Engineer at [Code 19](code19.com.au/bangladesh)
 - 🌱 I’m still learning everyday
 - 🌃 Dreaming to get job at google🌝
 
