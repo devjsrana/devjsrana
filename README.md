@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[website]: https://devjsrana.com
+[website]: https://devjsrana.vercel.app
 [twitter]: https://twitter.com/devjsrana
 [instagram]: https://instagram.com/devjsrana
 [linkedin]: https://linkedin.com/in/devjsrana
