@@ -71,9 +71,19 @@ I'm a software engineer with **5+ years of experience** building scalable web an
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjsrana&show_icons=true&theme=transparent&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=devjsrana&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjsrana&layout=compact&theme=transparent&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devjsrana&layout=compact&theme=transparent&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
