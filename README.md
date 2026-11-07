@@ -68,7 +68,7 @@ I'm a software engineer with **5+ years of experience** building scalable web an
 ![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
 
 ---
-
+<!-- 
 ### GitHub Stats
 
 <p align="center">
@@ -77,7 +77,7 @@ I'm a software engineer with **5+ years of experience** building scalable web an
     alt="GitHub Stats"
   />
 </p>
-
+-->
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=devjsrana&layout=compact&theme=transparent&hide_border=true"
